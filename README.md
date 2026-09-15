@@ -1,158 +1,155 @@
-<h1 align="center">Hey, I'm Usama Bin Mahbub 👋</h1>
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Usama%20Bin%20Mahbub&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-Full-Stack Developer • Competitive Programmer • CSE Student
+  Full-Stack Developer • Competitive Programmer • CSE Student
 </h3>
 
 <p align="center">
-  <a href="https://github.com/usamabinmah12">
-    <img src="https://komarev.com/ghpvc/?username=usamabinmah12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/usamabinmah12?tab=followers">
-    <img src="https://img.shields.io/github/followers/usamabinmah12?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Solving+Problems+with+C%2B%2B+%F0%9F%A7%A0;Exploring+AI%2C+NLP+%26+System+Design+%F0%9F%A4%96;Always+Learning%2C+Building+%26+Improving+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/usamabinmah12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=usamabinmah12&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
+  <a href="https://github.com/usamabinmah12?tab=followers">
+    <img src="https://img.shields.io/github/followers/usamabinmah12?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/usamabinmah12?tab=repositories">
+    <img src="https://img.shields.io/github/stars/usamabinmah12?label=Stars&style=flat" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/usamabinmahbub">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/604ioyeBpo/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:usamabinmahbub12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/usamabinmah12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ======================= ABOUT ======================= -->
 
-I'm a Computer Science student and developer passionate about **building real-world software and solving challenging problems**.
+## 👨‍💻 About Me
 
-My main focus is **full-stack web development**, while continuously strengthening my foundation in **Data Structures, Algorithms, System Design, and Competitive Programming**.
+```yaml
+name: Usama Bin Mahbub
+location: Bangladesh
+role: Full-Stack Developer & CSE Student
 
-```text
-💻 Full-Stack Development
-🧠 Data Structures & Algorithms
-🏆 Competitive Programming
-🏗️ System Design
-🤖 AI / NLP Exploration
-🚀 Building & Learning
+focus:
+  - Full-Stack Web Development
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Backend Development
+  - System Design
+  - AI / NLP
+
+currently_learning:
+  - Advanced Next.js
+  - Backend Architecture
+  - System Design
+  - AI-powered Applications
+  - NLP
+
+goal:
+  - Build scalable real-world software
+  - Become a stronger problem solver
+  - Grow as a Software Engineer
 ```
 
-* 🔭 Currently building **full-stack applications with Next.js & Node.js**
-* 🌱 Exploring **backend architecture, system design & AI-powered applications**
-* 🧠 Practicing **DSA and competitive programming**
-* 🏆 Participating in **ICPC-style programming contests**
-* ⚡ Interested in **scalable, maintainable & production-ready software**
-* 🤝 Open to **open-source collaboration and software engineering opportunities**
+### ⚡ Quick Facts
+
+* 💻 Building with **React, Next.js, Node.js & MongoDB**
+* 🧠 Solving **DSA & Competitive Programming** problems
+* 🏗️ Learning **System Design & scalable backend architecture**
+* 🤖 Exploring **AI / NLP applications**
+* 🏆 Interested in **ICPC-style programming**
+* 🚀 Building projects to learn by doing
+* 🤝 Open to interesting **open-source collaborations**
 
 ---
 
-## ⚡ Tech Stack
+<!-- ======================= TECH STACK ======================= -->
 
-### 👨‍💻 Languages
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,php" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### 🗄️ Database & Authentication
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
+
+### Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
 
 <p>
   <code>Better Auth</code>
   <code>Mongoose</code>
   <code>REST APIs</code>
-</p>
-
-### 🧰 Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
-</p>
-
-### 🤖 AI / Data
-
-<p>
-  <code>Python</code>
-  <code>Machine Learning</code>
-  <code>Data Preprocessing</code>
-  <code>EDA</code>
-  <code>AI Applications</code>
+  <code>Framer Motion</code>
+  <code>Lenis</code>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ======================= CURRENTLY ======================= -->
+
+## 🔭 Currently Working On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🐾 PetNest
+### 💻 Full-Stack Development
 
-A full-stack pet management platform for managing pets, adoption-related information and user accounts.
+Building modern applications using:
 
-**Stack**
-
-`Next.js` `React` `Tailwind` `MongoDB` `Better Auth` `HeroUI`
-
-**Highlights**
-
-🔐 Authentication
-🐶 Pet Management
-✏️ CRUD Operations
-🖼️ Image Handling
-📱 Responsive UI
-
-<a href="https://github.com/usamabinmah12/petnest-client">
-View Repository →
-</a>
+`Next.js` `React` `Node.js` `Express` `MongoDB`
 
 </td>
 
 <td width="50%">
 
-### 🧱 Tiles Gallery
+### 🧠 Problem Solving
 
-A modern authenticated tile gallery application with dynamic product views and user management.
+Improving algorithmic thinking through:
 
-**Stack**
-
-`Next.js` `React` `Tailwind` `DaisyUI` `MongoDB` `Better Auth`
-
-**Highlights**
-
-🔐 Authentication
-🧱 Product Gallery
-🔎 Detailed Views
-📝 Form Validation
-🔔 Notifications
-
-<a href="https://github.com/usamabinmah12/tiles-gallery-auth-nextjs">
-View Repository →
-</a>
+`LeetCode` `Codeforces` `DSA` `Competitive Programming`
 
 </td>
 </tr>
@@ -160,67 +157,21 @@ View Repository →
 <tr>
 <td width="50%">
 
-### 🤖 AI Verse
+### 🏗️ Backend & System Design
 
-An AI-focused web application exploring modern frontend development and AI-powered functionality.
+Learning:
 
-**Stack**
-
-`React` `Next.js` `JavaScript`
-
-<a href="https://github.com/usamabinmah12/ai-verse">
-View Repository →
-</a>
+`API Design` `Architecture` `Scalability` `Database Design`
 
 </td>
 
 <td width="50%">
 
-### 🐦 TwitterClone
+### 🤖 AI / NLP
 
-A Twitter-inspired backend project built with C# and .NET, focusing on domain-driven design and clean architecture concepts.
+Exploring:
 
-**Stack**
-
-`C#` `.NET`
-
-<a href="https://github.com/usamabinmah12/TwitterClone">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my projects, skills and development journey.
-
-**Stack**
-
-`React` `JavaScript` `Framer Motion` `Lenis`
-
-<a href="https://github.com/usamabinmah12/My-Portfolio">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 DSA Practice
-
-A repository dedicated to continuously improving my Data Structures & Algorithms skills using C++.
-
-**Stack**
-
-`C++` `DSA` `Algorithms`
-
-<a href="https://github.com/usamabinmah12/DataStructure_Algorithm">
-View Repository →
-</a>
+`Python` `Machine Learning` `NLP` `AI Applications`
 
 </td>
 </tr>
@@ -228,56 +179,127 @@ View Repository →
 
 ---
 
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🐾 PetNest
+
+> Full-stack pet management platform.
+
+**Stack:** `Next.js` `React` `Tailwind CSS` `MongoDB` `Better Auth` `HeroUI`
+
+🔐 Authentication • 🐶 Pet Management • ✏️ CRUD • 🖼️ Images • 📱 Responsive UI
+
+<a href="https://github.com/usamabinmah12/petnest-client">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🧱 Tiles Gallery
+
+> Modern authenticated tile/product gallery.
+
+**Stack:** `Next.js` `React` `Tailwind` `DaisyUI` `MongoDB` `Better Auth`
+
+🔐 Authentication • 🧱 Gallery • 🔎 Dynamic Details • 📝 Validation • 🔔 Notifications
+
+<a href="https://github.com/usamabinmah12/tiles-gallery-auth-nextjs">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🤖 AI Verse
+
+> AI-focused web application exploring modern frontend and AI-powered functionality.
+
+**Stack:** `Next.js` `React` `JavaScript`
+
+<a href="https://github.com/usamabinmah12/ai-verse">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🐦 TwitterClone
+
+> Twitter-inspired backend project built with C# and .NET.
+
+**Focus:** Domain-Driven Design • Backend Architecture • Clean Code
+
+**Stack:** `C#` `.NET`
+
+<a href="https://github.com/usamabinmah12/TwitterClone">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🌐 Personal Portfolio
+
+> Personal developer portfolio showcasing projects and skills.
+
+**Stack:** `React` `JavaScript` `Framer Motion` `Lenis`
+
+<a href="https://github.com/usamabinmah12/My-Portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+<!-- ======================= DSA ======================= -->
+
 ## 🧠 Competitive Programming
 
-I enjoy competitive programming because it pushes me to think about **logic, optimization, edge cases and efficient algorithms**.
+I enjoy competitive programming because it forces me to think about **logic, optimization, complexity and edge cases**.
 
-### 📌 Areas I Practice
+### 📚 Topics
 
-```text
-Arrays & Strings
-        ↓
-Hashing & Prefix Sum
-        ↓
-Two Pointers & Sliding Window
-        ↓
-Binary Search
-        ↓
-Stack & Queue
-        ↓
-Trees & Graphs
-        ↓
-Greedy Algorithms
-        ↓
-Dynamic Programming
-        ↓
-Recursion & Backtracking
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Strings-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hashing-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Binary_Search-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sliding_Window-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Two_Pointers-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stack_&_Queue-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Trees_&_Graphs-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Greedy-1F425F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dynamic_Programming-1F425F?style=flat-square"/>
+</p>
 
-### 🏆 Coding Platforms
+### 🏆 Coding Profiles
 
-<p>
-  <a href="https://leetcode.com/u/604ioyeBpo/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+<p align="center">
+
+<a href="https://leetcode.com/u/604ioyeBpo/">
+<img src="https://img.shields.io/badge/LeetCode-604ioyeBpo-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ======================= DYNAMIC STATS ======================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
 </p>
 
 <p align="center">
@@ -286,98 +308,144 @@ Recursion & Backtracking
 
 ---
 
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usamabinmah12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</p>
+
+---
+
+<!-- ======================= ACTIVITY ======================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamabinmah12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+<!-- ======================= GITHUB DETAILS ======================= -->
+
+## 📌 GitHub Details
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usamabinmah12&theme=tokyonight" width="95%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usamabinmah12&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usamabinmah12&theme=tokyonight" width="45%"/>
+
+</p>
+
+---
+
+<!-- ======================= ROADMAP ======================= -->
+
 ## 🎯 2026 Roadmap
 
 ```text
-                    2026
-                      │
-       ┌──────────────┼──────────────┐
-       │              │              │
-      DSA        Full-Stack      System Design
-       │              │              │
-       ▼              ▼              ▼
- Competitive      Next.js +       Backend
- Programming      Node.js         Architecture
-       │              │              │
-       └──────────────┼──────────────┘
-                      │
-                      ▼
-                 AI / NLP
-                      │
-                      ▼
-              Production Projects
-                      │
-                      ▼
-              Software Engineering
+                         2026
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+       DSA            Full-Stack        System Design
+        │                  │                  │
+        ▼                  ▼                  ▼
+ Competitive          Next.js +          Backend
+ Programming          Node.js           Architecture
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                           ▼
+                       AI / NLP
+                           │
+                           ▼
+                  Production Projects
+                           │
+                           ▼
+                  Software Engineering
 ```
 
-* 🚀 Build production-quality full-stack applications
-* 🧠 Strengthen DSA & problem-solving
-* 🏆 Improve competitive programming performance
-* 🏗️ Learn scalable backend architecture & system design
-* 🤖 Explore NLP and AI-powered applications
-* 🌎 Contribute to open source
-* 💼 Grow toward a software engineering / full-stack role
+* [ ] Become stronger in DSA
+* [ ] Improve competitive programming
+* [ ] Build production-ready applications
+* [ ] Master modern Next.js
+* [ ] Strengthen backend architecture
+* [ ] Learn System Design
+* [ ] Explore NLP / AI
+* [ ] Contribute to Open Source
+* [ ] Grow toward a Software Engineering role
 
 ---
 
-## 📚 What I'm Exploring
+<!-- ======================= DEV PHILOSOPHY ======================= -->
 
-<table>
-<tr>
-<td align="center">⚛️<br/><b>Next.js</b></td>
-<td align="center">🟢<br/><b>Node.js</b></td>
-<td align="center">🍃<br/><b>MongoDB</b></td>
-<td align="center">🧠<br/><b>DSA</b></td>
-<td align="center">🏗️<br/><b>System Design</b></td>
-<td align="center">🤖<br/><b>AI / NLP</b></td>
-</tr>
-</table>
+## 💡 Developer Philosophy
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." />
+
+</p>
+
+> Great software isn't built by knowing everything.
+> It's built by **learning continuously and solving problems one step at a time.**
 
 ---
+
+<!-- ======================= CONNECT ======================= -->
 
 ## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="mailto:usamabinmahbub12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-usamabinmahbub12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-usamabinmahbub12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/usamabinmahbub">
-  <img src="https://img.shields.io/badge/LinkedIn-usamabinmahbub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-usamabinmahbub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/604ioyeBpo/">
-  <img src="https://img.shields.io/badge/LeetCode-604ioyeBpo-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-604ioyeBpo-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/usamabinmah12">
-  <img src="https://img.shields.io/badge/GitHub-usamabinmah12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-usamabinmah12-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💭 Developer Philosophy
-
 <p align="center">
 
-### **Learn → Build → Break → Debug → Improve → Repeat.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </p>
 
-I believe becoming a better developer comes from consistently **solving problems, building real projects, understanding fundamentals, learning from mistakes, and improving every day.**
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting! 🚀</b>
   <br/>
-  <i>Keep learning. Keep building. Keep solving.</i>
+  <i>Keep learning • Keep building • Keep solving</i>
 </p>
