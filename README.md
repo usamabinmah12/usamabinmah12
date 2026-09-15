@@ -1,177 +1,108 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Usama%20Bin%20Mahbub&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!--                     HERO SECTION                         -->
 
-<h3 align="center">
-  Full-Stack Developer • Competitive Programmer • CSE Student
-</h3>
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Solving+Problems+with+C%2B%2B+%F0%9F%A7%A0;Exploring+AI%2C+NLP+%26+System+Design+%F0%9F%A4%96;Always+Learning%2C+Building+%26+Improving+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/usamabinmah12">
-    <img src="https://komarev.com/ghpvc/?username=usamabinmah12&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/usamabinmah12?tab=followers">
-    <img src="https://img.shields.io/github/followers/usamabinmah12?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/usamabinmah12?tab=repositories">
-    <img src="https://img.shields.io/github/stars/usamabinmah12?label=Stars&style=flat" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=USAMA%20BIN%20MAHBUB&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=gradient" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/usamabinmahbub">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/604ioyeBpo/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:usamabinmahbub12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/usamabinmah12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+CSE+Student;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Competitive+Programmer+%7C+Problem+Solver;Exploring+AI+%7C+NLP+%7C+System+Design;Building+%E2%80%A2+Learning+%E2%80%A2+Breaking+%E2%80%A2+Fixing+%E2%80%A2+Improving" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://github.com/usamabinmah12">
+<img src="https://komarev.com/ghpvc/?username=usamabinmah12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/usamabinmah12?tab=followers">
+<img src="https://img.shields.io/github/followers/usamabinmah12?label=FOLLOWERS&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/usamabinmah12?tab=repositories">
+<img src="https://img.shields.io/github/stars/usamabinmah12?label=STARS&style=for-the-badge"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!--                    SOCIAL LINKS                           -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+<a href="mailto:usamabinmahbub12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/usamabinmahbub">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/604ioyeBpo/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/usamabinmah12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ========================================================= -->
 
-## 👨‍💻 About Me
+<!--                     ABOUT ME                              -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<table align="center">
+<tr>
+<td width="55%">
 
 ```yaml
 name: Usama Bin Mahbub
+role: Full-Stack Developer
+education: CSE Student
 location: Bangladesh
-role: Full-Stack Developer & CSE Student
 
 focus:
-  - Full-Stack Web Development
+  - Full-Stack Development
   - Data Structures & Algorithms
   - Competitive Programming
-  - Backend Development
+  - Backend Engineering
   - System Design
   - AI / NLP
 
 currently_learning:
-  - Advanced Next.js
+  - Next.js
   - Backend Architecture
   - System Design
-  - AI-powered Applications
+  - AI Applications
   - NLP
 
-goal:
-  - Build scalable real-world software
-  - Become a stronger problem solver
-  - Grow as a Software Engineer
+mindset:
+  - Learn
+  - Build
+  - Solve
+  - Improve
 ```
 
-### ⚡ Quick Facts
-
-* 💻 Building with **React, Next.js, Node.js & MongoDB**
-* 🧠 Solving **DSA & Competitive Programming** problems
-* 🏗️ Learning **System Design & scalable backend architecture**
-* 🤖 Exploring **AI / NLP applications**
-* 🏆 Interested in **ICPC-style programming**
-* 🚀 Building projects to learn by doing
-* 🤝 Open to interesting **open-source collaborations**
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,php" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
-</p>
-
-### Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</p>
-
-<p>
-  <code>Better Auth</code>
-  <code>Mongoose</code>
-  <code>REST APIs</code>
-  <code>Framer Motion</code>
-  <code>Lenis</code>
-</p>
-
----
-
-<!-- ======================= CURRENTLY ======================= -->
-
-## 🔭 Currently Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Full-Stack Development
-
-Building modern applications using:
-
-`Next.js` `React` `Node.js` `Express` `MongoDB`
-
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
-### 🧠 Problem Solving
-
-Improving algorithmic thinking through:
-
-`LeetCode` `Codeforces` `DSA` `Competitive Programming`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏗️ Backend & System Design
-
-Learning:
-
-`API Design` `Architecture` `Scalability` `Database Design`
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI / NLP
-
-Exploring:
-
-`Python` `Machine Learning` `NLP` `AI Applications`
+<img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -179,168 +110,415 @@ Exploring:
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+<!-- ========================================================= -->
 
-## 🚀 Featured Projects
+<!--                    WHAT I DO                              -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 What I Do</h2>
+
+<div align="center">
+
+|            💻 Development            |     🧠 Problem Solving    |
+| :----------------------------------: | :-----------------------: |
+| Build modern full-stack applications |     Solve DSA problems    |
+|     React & Next.js applications     |  Competitive Programming  |
+|      REST APIs & backend systems     | Algorithms & Optimization |
+|       MongoDB & database design      |    ICPC-style problems    |
+
+|    🏗️ Engineering    |        🤖 Exploration       |
+| :-------------------: | :-------------------------: |
+|  Backend architecture |   Artificial Intelligence   |
+|     System Design     | Natural Language Processing |
+| Authentication & APIs |   AI-powered applications   |
+| Clean & reusable code |       Machine Learning      |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    TECH STACK                             -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,php,cs"/>
+</p>
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
+
+<h3 align="center">Backend & Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,dotnet"/>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Lenis-111111?style=flat-square"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  CURRENTLY BUILDING                       -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🔭 Currently Building & Learning</h2>
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ⚛️  Full-Stack Development       ████████████████░░  85%  │
+│                                                             │
+│   🧠  Data Structures & Algorithms ███████████████░░░  75%  │
+│                                                             │
+│   🏗️  System Design               ██████████░░░░░░░  55%  │
+│                                                             │
+│   🤖  AI / NLP                    ████████░░░░░░░░░  45%  │
+│                                                             │
+│   🚀  Production Engineering      ███████████░░░░░░  60%  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                   FEATURED PROJECTS                       -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/usamabinmah12/petnest-client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=petnest-client&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/usamabinmah12/tiles-gallery-auth-nextjs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=tiles-gallery-auth-nextjs&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/usamabinmah12/ai-verse">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=ai-verse&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/usamabinmah12/TwitterClone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=TwitterClone&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/usamabinmah12/My-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=My-Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/usamabinmah12/DataStructure_Algorithm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamabinmah12&repo=DataStructure_Algorithm&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  PROJECT DETAILS                          -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">💎 Project Highlights</h2>
+
+<table align="center">
+
+<tr>
+<td width="50%">
 
 ### 🐾 PetNest
 
-> Full-stack pet management platform.
+Full-stack pet management platform.
 
-**Stack:** `Next.js` `React` `Tailwind CSS` `MongoDB` `Better Auth` `HeroUI`
+**Built With**
 
-🔐 Authentication • 🐶 Pet Management • ✏️ CRUD • 🖼️ Images • 📱 Responsive UI
+`Next.js` `React` `MongoDB`
+`Tailwind` `Better Auth` `HeroUI`
+
+**Features**
+
+* 🔐 Authentication
+* 🐶 Pet Management
+* ✏️ CRUD Operations
+* 🔎 Dynamic Routing
+* 📱 Responsive UI
 
 <a href="https://github.com/usamabinmah12/petnest-client">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ### 🧱 Tiles Gallery
 
-> Modern authenticated tile/product gallery.
+Authenticated tile/product gallery.
 
-**Stack:** `Next.js` `React` `Tailwind` `DaisyUI` `MongoDB` `Better Auth`
+**Built With**
 
-🔐 Authentication • 🧱 Gallery • 🔎 Dynamic Details • 📝 Validation • 🔔 Notifications
+`Next.js` `React` `MongoDB`
+`Tailwind` `DaisyUI` `Better Auth`
+
+**Features**
+
+* 🔐 Authentication
+* 🧱 Product Gallery
+* 🔎 Detail Pages
+* 📝 Form Validation
+* 🔔 Notifications
 
 <a href="https://github.com/usamabinmah12/tiles-gallery-auth-nextjs">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
 
----
+</td>
+</tr>
 
-### 🤖 AI Verse
-
-> AI-focused web application exploring modern frontend and AI-powered functionality.
-
-**Stack:** `Next.js` `React` `JavaScript`
-
-<a href="https://github.com/usamabinmah12/ai-verse">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
----
+<tr>
+<td width="50%">
 
 ### 🐦 TwitterClone
 
-> Twitter-inspired backend project built with C# and .NET.
+Backend-focused social media project.
 
-**Focus:** Domain-Driven Design • Backend Architecture • Clean Code
+**Built With**
 
-**Stack:** `C#` `.NET`
+`C#` `.NET`
+
+**Focus**
+
+* Domain Driven Design
+* Clean Architecture
+* Backend Engineering
+* Object-Oriented Design
 
 <a href="https://github.com/usamabinmah12/TwitterClone">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Verse
+
+AI-focused web application.
+
+**Built With**
+
+`Next.js` `React` `JavaScript`
+
+**Focus**
+
+* Modern UI
+* AI-powered functionality
+* Frontend architecture
+* Interactive experience
+
+<a href="https://github.com/usamabinmah12/ai-verse">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-### 🌐 Personal Portfolio
+<!-- ========================================================= -->
 
-> Personal developer portfolio showcasing projects and skills.
+<!--              COMPETITIVE PROGRAMMING                     -->
 
-**Stack:** `React` `JavaScript` `Framer Motion` `Lenis`
+<!-- ========================================================= -->
 
-<a href="https://github.com/usamabinmah12/My-Portfolio">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
----
-
-<!-- ======================= DSA ======================= -->
-
-## 🧠 Competitive Programming
-
-I enjoy competitive programming because it forces me to think about **logic, optimization, complexity and edge cases**.
-
-### 📚 Topics
+<h2 align="center">🧠 Competitive Programming</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arrays-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Strings-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hashing-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Binary_Search-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sliding_Window-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Two_Pointers-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stack_&_Queue-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Trees_&_Graphs-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Greedy-1F425F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dynamic_Programming-1F425F?style=flat-square"/>
+I enjoy competitive programming because it teaches me how to think about
+<strong>logic, optimization, complexity and edge cases.</strong>
 </p>
 
-### 🏆 Coding Profiles
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-Competitive%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ICPC-Style%20Problems-1f8acb?style=for-the-badge"/>
+
+</div>
+
+<br/>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Arrays-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strings-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hashing-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Binary%20Search-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sliding%20Window-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Two%20Pointers-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack%20%26%20Queue-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trees%20%26%20Graphs-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Greedy-1F425F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dynamic%20Programming-1F425F?style=flat-square"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  LEETCODE                                 -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">⚔️ Coding Profiles</h2>
+
+<div align="center">
 
 <a href="https://leetcode.com/u/604ioyeBpo/">
 <img src="https://img.shields.io/badge/LeetCode-604ioyeBpo-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://leetcode.com/u/604ioyeBpo/">
+<img src="https://leetcard.jacoblin.cool/604ioyeBpo?theme=dark&font=baloo&ext=heatmap" width="500"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  GITHUB ANALYTICS                         -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 
 </p>
 
 ---
 
-<!-- ======================= DYNAMIC STATS ======================= -->
-
-## 📊 GitHub Analytics
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=usamabinmah12&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=usamabinmah12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+<!-- ========================================================= -->
 
-## 🐍 Watch My Contributions Get Eaten
+<!--                 ACTIVITY GRAPH                            -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamabinmah12&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+
 </p>
 
 ---
 
-<!-- ======================= TROPHIES ======================= -->
+<!-- ========================================================= -->
 
-## 🏆 GitHub Trophies
+<!--                    TROPHIES                               -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usamabinmah12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=usamabinmah12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
+
 </p>
 
 ---
 
-<!-- ======================= ACTIVITY ======================= -->
+<!-- ========================================================= -->
 
-## 📈 Contribution Activity
+<!--                 CONTRIBUTION SNAKE                       -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🐍 My Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamabinmah12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </p>
 
 ---
 
-<!-- ======================= GITHUB DETAILS ======================= -->
+<!-- ========================================================= -->
 
-## 📌 GitHub Details
+<!--                PROFILE DETAILS                            -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">📌 Profile Overview</h2>
 
 <p align="center">
 
@@ -358,63 +536,120 @@ I enjoy competitive programming because it forces me to think about **logic, opt
 
 ---
 
-<!-- ======================= ROADMAP ======================= -->
+<!-- ========================================================= -->
 
-## 🎯 2026 Roadmap
+<!--                     ROADMAP                               -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 Current Roadmap</h2>
+
+<div align="center">
 
 ```text
-                         2026
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-       DSA            Full-Stack        System Design
-        │                  │                  │
-        ▼                  ▼                  ▼
- Competitive          Next.js +          Backend
- Programming          Node.js           Architecture
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                           ▼
-                       AI / NLP
-                           │
-                           ▼
-                  Production Projects
-                           │
-                           ▼
-                  Software Engineering
+                         ┌───────────────────┐
+                         │    SOFTWARE       │
+                         │    ENGINEERING    │
+                         └─────────┬─────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                │                  │                  │
+                ▼                  ▼                  ▼
+             🧠 DSA            💻 FULL STACK      🏗️ SYSTEM
+                │                  │              DESIGN
+                │                  │                  │
+                ▼                  ▼                  ▼
+          Competitive          Next.js +          Backend
+          Programming          Node.js           Architecture
+                │                  │                  │
+                └──────────────────┼──────────────────┘
+                                   │
+                                   ▼
+                              🤖 AI / NLP
+                                   │
+                                   ▼
+                         🚀 Production Systems
 ```
 
-* [ ] Become stronger in DSA
-* [ ] Improve competitive programming
-* [ ] Build production-ready applications
-* [ ] Master modern Next.js
-* [ ] Strengthen backend architecture
-* [ ] Learn System Design
-* [ ] Explore NLP / AI
+</div>
+
+<br/>
+
+* [x] Build full-stack applications
+* [x] Work with React / Next.js
+* [x] Build REST APIs
+* [x] Work with MongoDB
+* [x] Authentication systems
+* [ ] Master advanced DSA
+* [ ] Improve Competitive Programming
+* [ ] Deepen System Design
+* [ ] Build scalable backend systems
+* [ ] Learn advanced NLP
+* [ ] Build AI-powered applications
 * [ ] Contribute to Open Source
-* [ ] Grow toward a Software Engineering role
+* [ ] Become a stronger Software Engineer
 
 ---
 
-<!-- ======================= DEV PHILOSOPHY ======================= -->
+<!-- ========================================================= -->
 
-## 💡 Developer Philosophy
+<!--                  DEVELOPER PHILOSOPHY                     -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">💡 Developer Philosophy</h2>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat;Good+code+comes+from+good+thinking;Every+bug+is+another+thing+to+understand" />
 
 </p>
 
-> Great software isn't built by knowing everything.
-> It's built by **learning continuously and solving problems one step at a time.**
+<div align="center">
+
+> **Don't just write code. Understand the problem.**
+
+> **Don't just build projects. Build things that teach you something.**
+
+> **Don't chase perfection. Chase continuous improvement.**
+
+</div>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ========================================================= -->
 
-## 🤝 Let's Connect
+<!--                    GITHUB REPOSITORIES                    -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">📚 Explore My Work</h2>
+
+<div align="center">
+
+<a href="https://github.com/usamabinmah12?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Repositories-Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/usamabinmah12/DataStructure_Algorithm">
+<img src="https://img.shields.io/badge/DSA%20Repository-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus"/>
+</a>
+
+<a href="https://github.com/usamabinmah12/My-Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CONNECT                                -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
 
@@ -438,14 +673,18 @@ I enjoy competitive programming because it forces me to think about **logic, opt
 
 ---
 
-<p align="center">
+<!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<!--                       FOOTER                               -->
 
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-  <b>Thanks for visiting! 🚀</b>
-  <br/>
-  <i>Keep learning • Keep building • Keep solving</i>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Solving" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
+
+</div>
