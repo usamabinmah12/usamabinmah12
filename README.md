@@ -1,115 +1,242 @@
-# 💫 About Me
+# 👋 Hi, I'm Usama Bin Mahbub
 
-🔭 I'm currently building scalable full-stack web applications using **Next.js, React, Node.js, and MongoDB**
+### Full-Stack Developer • Competitive Programmer • CSE Student
 
-🌱 Currently learning **Data Structures & Algorithms, System Design, and Next.js App Router**
+I’m a Computer Science student and developer focused on building **modern, scalable web applications** and improving my problem-solving skills through **Data Structures & Algorithms and competitive programming**.
 
-👯 Looking to collaborate on **Open Source, MERN Stack Projects, and Competitive Programming Tools**
-
-💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and Competitive Programming**
-
-⚡ Fun fact: I love solving algorithmic problems and participating in ICPC-style programming contests.
+I enjoy turning ideas into practical products using technologies like **React, Next.js, Node.js, Express.js, MongoDB, and TypeScript**.
 
 ---
 
-# 🌐 Connect with Me
+## 🚀 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://usama-portfolio-henna.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/usamabinmah12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/usamabinmahbub)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/usama.bin.mahbub.2024)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@usamabinmahbub)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamabinmahbub12@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+* 💻 Currently building **full-stack web applications** with Next.js, React, Node.js & MongoDB
+* 🧠 Practicing **Data Structures & Algorithms** and competitive programming
+* 🏗️ Learning **System Design** and modern web application architecture
+* ⚡ Interested in building scalable and maintainable software
+* 🏆 Participating in **ICPC-style programming contests**
+* 🌱 Currently exploring **Next.js App Router, backend development & AI-powered applications**
+* 🤝 Open to collaborating on **open-source projects, MERN applications & developer tools**
 
 ---
 
-### Frontend
+## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+### 👨‍💻 Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,php" />
+</p>
 
-### Backend
+### 🎨 Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
----
+### ⚙️ Backend & APIs
 
-### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### 🗄️ Database & Authentication
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Cloud & Deployment
+* Better Auth
+* REST APIs
+* MongoDB / Mongoose
 
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+### 🔧 Tools & Workflow
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
 
-### Tools
+### 🤖 AI / Data
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
+* Python
+* Machine Learning fundamentals
+* Data preprocessing
+* Exploratory Data Analysis
+* AI-powered web applications
 
 ---
 
-### Data Science
+## 💻 Featured Projects
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+### 🐾 PetNest — Pet Management Platform
+
+A modern full-stack pet management application where users can create, update and manage pet information.
+
+**Tech:** `Next.js` `React` `Tailwind CSS` `MongoDB` `Better Auth` `HeroUI`
+
+**Features**
+
+* 🔐 Authentication & registration
+* 🐶 Pet management
+* ✏️ Create / update pet information
+* 🖼️ Pet images and details
+* 📱 Responsive UI
+* 🔄 Dynamic routing
+
+🔗 **[Repository](https://github.com/usamabinmah12/petnest-client)**
+🌐 **[Live Demo](https://petnest-client-rho.vercel.app/)**
 
 ---
 
-# 📊 GitHub Stats
+### 🏠 Tiles Gallery — Authenticated Product Gallery
 
-![](https://github-readme-stats.shion.dev/api?username=usamabinmah12&theme=tokyonight&hide_border=true&include_all_commits=true)
+A modern full-stack tile gallery application designed for browsing tile collections and managing user accounts.
 
-![](https://streak-stats.demolab.com?user=usamabinmah12&theme=tokyonight&hide_border=true)
+**Tech:** `Next.js` `React` `Tailwind CSS` `DaisyUI` `MongoDB` `Better Auth`
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true)
+**Features**
+
+* 🔐 Secure authentication
+* 🧱 Product/tile gallery
+* 🔎 Detailed product views
+* 📝 Form handling & validation
+* 🔔 Toast notifications
+* 📱 Responsive interface
+
+🔗 **[Repository](https://github.com/usamabinmah12/tiles-gallery-auth-nextjs)**
+🌐 **[Live Demo](https://tiles-gallery-auth-nextjs.vercel.app/)**
 
 ---
 
-![](https://komarev.com/ghpvc/?username=usamabinmah12&style=for-the-badge)
+### 🤖 AI Verse
+
+An AI-focused web application exploring modern frontend development and AI-powered functionality.
+
+**Tech:** `JavaScript` `React` `Next.js`
+
+🔗 **[Repository](https://github.com/usamabinmah12/ai-verse)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My developer portfolio showcasing my projects, skills, experience and journey as a developer.
+
+**Tech:** `React` `JavaScript` `Framer Motion` `Lenis`
+
+🔗 **[Repository](https://github.com/usamabinmah12/My-Portfolio)**
+
+---
+
+## 🧠 Competitive Programming
+
+Competitive programming is an important part of my development journey.
+
+I regularly practice:
+
+* Data Structures
+* Algorithms
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Stack & Queue
+* Hashing
+* Trees & Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Recursion & Backtracking
+* Problem Solving
+
+### 🏆 Contest Platforms
+
+<p>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Competitive Programming
+        ↓
+System Design
+        ↓
+Advanced Next.js
+        ↓
+Backend Architecture
+        ↓
+AI / NLP Applications
+```
+
+I'm especially interested in understanding **how real-world applications are designed, built, secured and scaled**.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamabinmah12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinmah12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usamabinmah12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Improve Competitive Programming rating
+* [ ] Become stronger in System Design
+* [ ] Build production-quality full-stack applications
+* [ ] Learn more about backend architecture
+* [ ] Explore NLP / AI application development
+* [ ] Contribute to Open Source
+* [ ] Land a Software Engineering / Full-Stack internship
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:usamabinmahbub12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/usamabinmah12">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+I believe the best way to become a better developer is to continuously **solve problems, build real projects, understand the fundamentals, and keep improving.**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep solving.</i>
+</p>
